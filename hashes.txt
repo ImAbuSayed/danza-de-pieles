@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Danza de pieles
+
+This log tracks the cryptographic history and versioning for the song **Danza de pieles** (danza-de-pieles).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:56:56.292756 | `v1` | `6f4ef2eac67749dada43752171abf89540c83b12d667b32b2ff570eafee8fb37` | `e3df5d76978abbe02a1641efc40108b995bdd44032cbd92f4b3f1400602dd8c8` | `2026-06-15_danza-de-pieles-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
