@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/danza-de-pieles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Danza de pieles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-de-pieles/) |
+| **Get License** | [Get a Licensing Quote for Danza de pieles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-de-pieles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3394)
 
 ---
 
