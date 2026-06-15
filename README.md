@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero sentir tu calor quemando como el sol
+> Esta noche no hay reglas, perdemos el control
+> Con ese encanto, mami, tú eres la sensación
+> Danza de pieles dentro de la habitación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
